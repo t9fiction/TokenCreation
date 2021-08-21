@@ -10,7 +10,7 @@ Create a token based on ERC20 which is buyable. Following features should presen
 3. There should be an additional method to adjust the price that allows the owner to adjust the price.
 */
 
-import 'https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol';
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol";
 
 // ==========================================================================================================
 
